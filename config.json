@@ -1,0 +1,8 @@
+{
+    "backup_globs": [
+        "./sql/**/*",
+        "./test_folder/**/*"
+    ],
+    "backup_path": "./temp/",
+    "max_copies": 2
+}
